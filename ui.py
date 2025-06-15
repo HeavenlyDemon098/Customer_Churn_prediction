@@ -1216,4 +1216,6 @@ curl -X POST "http://localhost:8000/predict" \\
 
 # Footer
 st.markdown("---")
-st.markdown("**Built for the DS-2 (Stop the Churn) Hackathon | Team: [Your Team Name] | Submission Deadline: 8:00 PM IST, June 15, 2025**")
+st.markdown(""" **Built for Anveshan Hackathon  
+            Team Name:   Model Miner 
+            Built by : yaswanthsai mannem( iitrpr_ai_25010855 &  Bhaagwat Sharma (iitrpr_ai_25010733) ** """)
